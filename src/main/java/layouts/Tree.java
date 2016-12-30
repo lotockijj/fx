@@ -27,7 +27,7 @@ public class Tree extends Application {
 
         TreeItem<String> root, bucky, megan;
 
-        root = new TreeItem<>("Root");
+        root = new TreeItem("Root");
         root.setExpanded(true);
 
         bucky = makeBranch("Bucky", root);
@@ -40,7 +40,7 @@ public class Tree extends Application {
         makeBranch("towel", megan);
         makeBranch("brush", megan);
 
-        tree = new TreeView<>(root);
+        tree = new TreeView(root);
         tree.setShowRoot(false);
 
         VBox vBox = new VBox();
@@ -54,7 +54,7 @@ public class Tree extends Application {
     }
 
     public TreeItem<String> makeBranch(String title, TreeItem<String > parent){
-        TreeItem<String> item = new TreeItem<>(title);
+        TreeItem<String> item = new TreeItem(title);
         item.setExpanded(false);
         parent.getChildren().add(item);
         return item;

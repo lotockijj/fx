@@ -1,7 +1,6 @@
 package coursera.week2;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -15,31 +14,27 @@ public class FileResource {
 
     String[] s;
 
-    public void createFile(String myFile){
-        try {
+    public FileResource(String source) {
+    }
 
-            File file = new File(myFile);
+    public FileResource() {
 
-            if (file.createNewFile()){
-                System.out.println("File is created!");
-            }else{
-                System.out.println("File already exists.");
-            }
+    }
 
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+    private void createFile(String myFile) {
+
     }
 
     public String[] words(String file){
         createFile(file);
         Path fPath = Paths.get(file);
+        System.out.println(fPath);
         try( Scanner scanner = new Scanner(fPath, "UTF8")) {
             List<String> list = new ArrayList<>();
-            while (scanner.hasNextLine()) {
-                try ( Scanner scanner2 =new Scanner(scanner.next())){
+            while (scanner.hasNext()) {
+                try ( Scanner scanner2 = new Scanner(scanner.next())){
                     while (scanner2.hasNext()) {
-                        list.add(scanner2.nextLine());
+                        list.add(scanner2.next());
                     }
                 }
             }
@@ -48,8 +43,17 @@ public class FileResource {
                 s[i] = list.get(i);
             }
         } catch (IOException e){
-            System.out.println(e);
+            System.out.println(e + "\n" + fPath);
         }
         return s;
+    }
+
+
+    public String[] words() {
+        return null;
+    }
+
+    public String[] lines() {
+        return null;
     }
 }

@@ -50,10 +50,11 @@ public class HelloWorld extends Application {
         vBox.setPadding(new Insets(10, 10, 10, 10));
         vBox.setSpacing(10);
         Scene scene = new Scene(vBox, 400, 350);
-        scene.getStylesheets().add(HelloWorld.class.getResource("my.css").toExternalForm());
         window.setScene(scene);
+        scene.getStylesheets().add("my.css");
         window.show();
     }
+
     private void getChoice(ChoiceBox<String> choiceBox) {
         System.out.println(choiceBox.getValue());
     }
