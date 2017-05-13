@@ -1,7 +1,8 @@
 package coursera.week3;
 
-import sun.rmi.runtime.Log;
+import org.junit.Test;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import static org.junit.Assert.*;
@@ -129,6 +130,12 @@ public class LogAnalyzerTest {
         la.readFile("weblog2_log");
         //System.out.println(la.iPsWithMostVisitsOnDay("30 Sep"));
         assertEquals(2, la.iPsWithMostVisitsOnDay("30 Sep").size());
+    }
+
+    @Test(expected = edu.duke.ResourceException.class)
+    public void testToFindFileWhichNotExists(){
+        LogAnalyzer la = new LogAnalyzer();
+        la.readFile("NotExistingFile_log");
     }
 
 }

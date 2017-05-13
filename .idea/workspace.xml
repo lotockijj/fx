@@ -2,75 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/apache_csv.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/util/annotations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/short-test_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FXMLExample/FXMLExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FXMLExample/FXMLExampleController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FXMLExample/Login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FXMLExample/fxml_example.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week22/CodonCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week22/GladLib.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week22/GladLibMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week22/WordsInFiles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fxml/Controller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fxml/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fxml/sample.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/layouts/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/layouts/MenuFX.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/java/layouts/MainForTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/ColorfulCircles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/XformWithPivot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/oracle/oracle/simple3dbox/Simple3DBoxApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/properties/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/properties/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/sample.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/second.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/viper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/untitled.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weblog-short_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weblog1_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weblog2-short_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weblog2_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weblog3-short_log" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/CaesarCipher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/CaesarCipher2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/CountingCommonWords.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/DecryptedWithTwoKeys.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/DiceRolling.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/Encrypt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/TestCaesarCipherTwo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/WordLengths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/WordPlay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/coursera/atempt2/CaesarBreak.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/coursera/atempt2/CaesarBreaker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/coursera/atempt2/CaesarCipher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/week2/FileResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/week2/StoregeResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/week2/WordFrequencies.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coursera/week2/WordsWithArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/GridPaneLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/Main2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/Tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/oracle/HelloWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/AlertBox.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/ConfirmBox.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/HereAndThere.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/upwork1/CopyFile.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/romeo.txt" afterPath="$PROJECT_DIR$/romeo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/athens_keyflute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oslusiadas_key17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secretmessage1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/Chapter1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algorithms/Euclid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/bit/BinaryConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/encrypt2/CaesarCipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week4/CaesarCracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week4/CeasarCipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week4/VigenereBreaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week4/VigenereCipherr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week44/CaesarCipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week44/CaesarCracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week44/VigenereBreaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/coursera/week44/VigenereCipher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/fx/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/AmstrongNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/BubbleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/FactorialNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/FibonacciSeries.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/FibonacciTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/PalindromeNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/PrimeNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/ReverseWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/SelectionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Prometheus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Prometheus2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/upwork/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/upwork/MainWindow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/upwork/MainWindowFX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/upwork/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/upwork/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/upwork/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algorithms/EuclidTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algorithms/ReverseArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algorithms/ReverseArrayTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/encrypt2/CaesarCipherTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week4/CaesarCrackerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week4/CeasarCipherTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereBreakerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipherTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipherrTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/coursera/week44/CaesarCipherTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/titus-small.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/titus-small_key5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/fxml/Main.class" afterPath="$PROJECT_DIR$/target/classes/fxml/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/layouts/Main2.class" afterPath="$PROJECT_DIR$/target/classes/layouts/Main2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/layouts/MenuFX.class" afterPath="$PROJECT_DIR$/target/classes/layouts/MenuFX.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/java/layouts/MainForTable.class" afterPath="$PROJECT_DIR$/target/classes/main/java/layouts/MainForTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/oracle/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/oracle/HelloWorld.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/properties/Main.class" afterPath="$PROJECT_DIR$/target/classes/properties/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/AlertBox.class" afterPath="$PROJECT_DIR$/target/classes/sample/AlertBox.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/ConfirmBox.class" afterPath="$PROJECT_DIR$/target/classes/sample/ConfirmBox.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/HereAndThere.class" afterPath="$PROJECT_DIR$/target/classes/sample/HereAndThere.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sample/Main.class" afterPath="$PROJECT_DIR$/target/classes/sample/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/upwork1/CopyFile.class" afterPath="$PROJECT_DIR$/target/classes/upwork1/CopyFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/coursera/week3/LogAnalyzerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/coursera/week3/LogAnalyzerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fx.iml" afterPath="$PROJECT_DIR$/fx.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FXMLExample/fxml_example.fxml" afterPath="$PROJECT_DIR$/src/main/java/FXMLExample/fxml_example.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fxml/Main.java" afterPath="$PROJECT_DIR$/src/main/java/fxml/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fxml/sample.fxml" afterPath="$PROJECT_DIR$/src/main/java/fxml/sample.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/layouts/MenuFX.java" afterPath="$PROJECT_DIR$/src/main/java/layouts/MenuFX.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java" afterPath="$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,52 +129,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Tester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java">
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogEntry.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="e#629#630#0" expanded="false" />
-                <element signature="e#661#662#0" expanded="false" />
-                <element signature="e#711#712#0" expanded="false" />
-                <element signature="e#753#754#0" expanded="false" />
-                <element signature="e#788#789#0" expanded="false" />
-                <element signature="e#821#822#0" expanded="false" />
-                <element signature="e#871#872#0" expanded="false" />
-                <element signature="e#915#916#0" expanded="false" />
-                <element signature="e#949#950#0" expanded="false" />
-                <element signature="e#979#980#0" expanded="false" />
-                <element signature="e#1025#1026#0" expanded="false" />
-                <element signature="e#1063#1064#0" expanded="false" />
-                <element signature="e#1097#1098#0" expanded="false" />
-                <element signature="e#1130#1131#0" expanded="false" />
-                <element signature="e#1179#1180#0" expanded="false" />
-                <element signature="e#1223#1224#0" expanded="false" />
-                <element signature="e#1260#1261#0" expanded="false" />
-                <element signature="e#1296#1297#0" expanded="false" />
-                <element signature="e#1351#1352#0" expanded="false" />
-                <element signature="e#1401#1402#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#425#426#0" expanded="false" />
+                <element signature="e#460#461#0" expanded="false" />
+                <element signature="e#508#509#0" expanded="false" />
+                <element signature="e#544#545#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebLogParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java">
+      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="1125">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FibonacciTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/FibonacciTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -186,62 +167,99 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogAnalyzer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="62" column="36" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="36" />
-              <folding>
-                <element signature="method#readFile#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#printAll#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#countUniqueIPs#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#printAllHigherThanNum#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#countVisitsPerIP#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#mostNumberVisitsByIP#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#iPsMostVisits#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#iPsForDays#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#dayWithMostIPVisits#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#iPsWithMostVisitsOnDay#0;class#LogAnalyzer#0" expanded="false" />
-                <element signature="method#main#0;class#LogAnalyzer#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogAnalyzerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="129" column="10" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XformWithPivot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/XformWithPivot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#XformWithPivot#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Simple3DBoxApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/oracle/oracle/simple3dbox/Simple3DBoxApp.java">
+      <file leaf-file-name="FibonacciSeries.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/FibonacciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Euclid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Euclid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Chapter1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4325">
+              <caret line="173" column="28" selection-start-line="173" selection-start-column="28" selection-end-line="173" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryConverter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bit/BinaryConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/upwork/MainWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3975">
+              <caret line="184" column="58" selection-start-line="184" selection-start-column="58" selection-end-line="184" selection-end-column="58" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1714#1715#0" expanded="true" />
-                <element signature="e#1742#1743#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#373#483#0" expanded="false" />
+                <element signature="e#482#483#0" expanded="false" />
+                <element signature="e#522#523#0" expanded="false" />
+                <element signature="e#540#541#0" expanded="false" />
+                <element signature="e#860#861#0" expanded="false" />
+                <element signature="e#880#881#0" expanded="false" />
+                <element signature="e#1462#1616#0" expanded="false" />
+                <element signature="e#1615#1616#0" expanded="false" />
+                <element signature="e#1647#1804#0" expanded="false" />
+                <element signature="e#1803#1804#0" expanded="false" />
+                <element signature="e#1835#1992#0" expanded="false" />
+                <element signature="e#1991#1992#0" expanded="false" />
+                <element signature="e#3278#4861#0" expanded="false" />
+                <element signature="e#4860#4861#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#702#703#0" expanded="false" />
+                <element signature="e#728#729#0" expanded="false" />
+                <element signature="e#760#761#0" expanded="false" />
+                <element signature="e#783#784#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#465#466#0" expanded="false" />
+                <element signature="e#501#502#0" expanded="false" />
+                <element signature="e#549#550#0" expanded="false" />
+                <element signature="e#584#585#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -286,57 +304,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/untitled/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/new.txt" />
-        <option value="$PROJECT_DIR$/romeo.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/main/java/layouts/MainForTable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week2/WordFrequencies.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week22/URLResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week2/WordsWithArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week2/FileResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/layouts/Menua.java" />
-        <option value="$PROJECT_DIR$/src/main/java/layouts/Menu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week22/GladLib.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week22/GladLibMap.java" />
-        <option value="$PROJECT_DIR$/new2.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week2/CharactersInPlay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week2/CharacterInPlayGit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week22/CodonCount.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week22/WordsInFiles.java" />
-        <option value="$PROJECT_DIR$/second.css" />
-        <option value="$PROJECT_DIR$/src/main/java/oracle/my.css" />
-        <option value="$PROJECT_DIR$/src/main/java/oracle/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/oracle/Login.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/second.css" />
-        <option value="$PROJECT_DIR$/src/main/java/FXMLExample/FXMLDocumentController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FXMLExample/FXMLExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FXMLExample/fxml_example.fxml" />
-        <option value="$PROJECT_DIR$/src/main/java/layouts/MenuFX.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/viper.css" />
-        <option value="$PROJECT_DIR$/src/main/java/properties/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/oracle/ColorfulCircles.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week3/EntryLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java" />
-        <option value="$PROJECT_DIR$/src/main/java/layouts/Login.java" />
-        <option value="$PROJECT_DIR$/src/main/java/properties/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FXMLExample/FXMLExampleController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fxml/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fxml/Controller.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java" />
-        <option value="$PROJECT_DIR$/weblog-short_log" />
-        <option value="$PROJECT_DIR$/short-test_log" />
-        <option value="$PROJECT_DIR$/weblog2-short_log" />
-        <option value="$PROJECT_DIR$/weblog3-short_log" />
-        <option value="$PROJECT_DIR$/weblog1_log" />
-        <option value="$PROJECT_DIR$/weblog2_log" />
-        <option value="$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/oracle/XformWithPivot.java" />
         <option value="$PROJECT_DIR$/src/main/java/oracle/oracle/simple3dbox/Simple3DBoxApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java" />
+        <option value="$PROJECT_DIR$/titus-small.txt" />
+        <option value="$PROJECT_DIR$/titus-small_key5.txt" />
+        <option value="$PROJECT_DIR$/oslusiadas_key17.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week44/CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week44/VigenereBreaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week44/VigenereCipher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week4/VigenereCipher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week44/CaesarCracker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week4/CaesarCracker.java" />
+        <option value="$PROJECT_DIR$/athens_keyflute.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/encrypt2/CaesarCipherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/encrypt2/CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week44/CaesarCipherTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week4/CeasarCipherTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week4/CaesarCrackerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipherrTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week4/VigenereCipherr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week4/CeasarCipher.java" />
+        <option value="$PROJECT_DIR$/secretmessage1.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/coursera/week4/VigenereBreakerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coursera/week4/VigenereBreaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FXMLExample/fxml_example.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/fxml/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/fxml/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Prometheus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Prometheus2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/layouts/MenuFX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fx/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upwork/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upwork/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upwork/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/upwork/MainWindowFX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/FibonacciSeries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/FactorialNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/AmstrongNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bit/BinaryConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/PalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/EuclidTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/ReverseArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/Euclid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/ReverseWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/Chapter1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javatpoint/FibonacciTwo.java" />
       </list>
     </option>
   </component>
@@ -389,12 +407,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="fx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: junit:junit:4.12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="junit-4.12.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -428,8 +471,30 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="week3" />
+              <option name="myItemId" value="fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -495,7 +560,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oracle" />
+              <option name="myItemId" value="javatpoint" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -521,45 +586,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oracle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple3dbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fxml" />
+              <option name="myItemId" value="algorithms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -576,43 +608,48 @@
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="E:/Blue/courserajava.jar!/" />
+    <property name="last_opened_file_path" value="E:/Arxive/algs4.jar!/" />
     <property name="SearchEverywhereHistoryKey" value="'vjdsa;fjq[ofj&#9;null&#9;null" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="algorithms" />
+      <recent name="coursera.week4" />
+      <recent name="coursera.week44" />
+      <recent name="coursera.encrypt2" />
       <recent name="coursera.week3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\fx\src\main\resources" />
-      <recent name="D:\fx\src\oracle" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\fx\src\main\resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coursera.week3" />
       <recent name="coursera.week22" />
       <recent name="coursera.week2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fx\src\main\java\upwork" />
+      <recent name="D:\fx\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fx\src\main\resources" />
+      <recent name="D:\fx\src\oracle" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Simple3DBoxApp">
-    <configuration default="false" name="LogAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration default="false" name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="coursera.week3.*" />
+          <option name="PATTERN" value="javatpoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="coursera.week3.LogAnalyzer" />
+      <option name="MAIN_CLASS_NAME" value="javatpoint.PrimeNumber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -625,14 +662,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="fxml.*" />
+          <option name="PATTERN" value="javatpoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="fxml.Main" />
+      <option name="MAIN_CLASS_NAME" value="javatpoint.ReverseWord" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -645,14 +682,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Chapter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="coursera.week3.*" />
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="coursera.week3.Tester" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.Chapter1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -665,40 +702,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LogAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FibonacciTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="coursera.week3.*" />
+          <option name="PATTERN" value="javatpoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="fx" />
+      <option name="MAIN_CLASS_NAME" value="javatpoint.FibonacciTwo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="coursera.week3" />
-      <option name="MAIN_CLASS_NAME" value="coursera.week3.LogAnalyzerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="fx" />
       <envs />
-      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Simple3DBoxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="oracle.oracle.simple3dbox.*" />
+          <option name="PATTERN" value="javatpoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="oracle.oracle.simple3dbox.Simple3DBoxApp" />
+      <option name="MAIN_CLASS_NAME" value="javatpoint.FibonacciSeries" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -996,19 +1027,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LogAnalyzer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Tester" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LogAnalyzerTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Simple3DBoxApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrimeNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReverseWord" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Chapter1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FibonacciTwo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.FibonacciSeries" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Simple3DBoxApp" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LogAnalyzerTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LogAnalyzer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Tester" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FibonacciSeries" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FibonacciTwo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Chapter1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ReverseWord" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1034,35 +1065,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 54m 36s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 37m 12s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 55m 10s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 37m 58s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 56m 07s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 38m 58s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 56m 27s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 39m 25s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 56m 49s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 39m 50s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 58m 51s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 40m 05s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 15h 59m 30s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 40m 23s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 16h 06m 14s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 40m 53s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 16h 07m 15s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 12h 41m 40s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LogAnalyzerTest - 2016.12.30 at 16h 10m 14s.xml">
-      <configuration name="LogAnalyzerTest" configurationId="JUnit" />
+    <history-entry file="ReverseArrayTest - 2017.05.09 at 13h 01m 22s.xml">
+      <configuration name="ReverseArrayTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -1070,26 +1101,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1384" height="736" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7029361" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59412783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.022452503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19516407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16251831" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15373352" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1098,10 +1128,11 @@
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14680484" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06735751" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06735751" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1130,7 +1161,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1139,474 +1170,407 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/coursera/atempt2/CaesarCipher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="-187">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week44/CaesarCipher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#788#789#0" expanded="false" />
-            <element signature="e#821#822#0" expanded="false" />
-            <element signature="e#871#872#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#979#980#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1130#1131#0" expanded="false" />
-            <element signature="e#1179#1180#0" expanded="false" />
-            <element signature="e#1223#1224#0" expanded="false" />
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1296#1297#0" expanded="false" />
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java">
+    <entry file="file://$PROJECT_DIR$/titus-small_key5.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipher.java" />
+    <entry file="file://$PROJECT_DIR$/titus-small.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4200">
-          <caret line="168" column="9" selection-start-line="168" selection-start-column="9" selection-end-line="168" selection-end-column="9" />
-          <folding>
-            <element signature="method#readFile#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAll#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countUniqueIPs#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAllHigherThanNum#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countVisitsPerIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#mostNumberVisitsByIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsMostVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsForDays#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#dayWithMostIPVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsWithMostVisitsOnDay#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#main#0;class#LogAnalyzer#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week4/VigenereCipherrTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caesar.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week4/CaesarCrackerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week4/CaesarCracker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#788#789#0" expanded="false" />
-            <element signature="e#821#822#0" expanded="false" />
-            <element signature="e#871#872#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#979#980#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1130#1131#0" expanded="false" />
-            <element signature="e#1179#1180#0" expanded="false" />
-            <element signature="e#1223#1224#0" expanded="false" />
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1296#1297#0" expanded="false" />
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week4/CeasarCipherTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="527">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/athens_keyflute.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="132" column="37" selection-start-line="132" selection-start-column="37" selection-end-line="132" selection-end-column="37" />
-          <folding>
-            <element signature="method#readFile#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAll#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countUniqueIPs#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAllHigherThanNum#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countVisitsPerIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#mostNumberVisitsByIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsMostVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsForDays#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#dayWithMostIPVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsWithMostVisitsOnDay#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#main#0;class#LogAnalyzer#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1550">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java">
+    <entry file="file://$PROJECT_DIR$/secretmessage1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week4/VigenereCipherr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="675">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week4/VigenereBreakerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#788#789#0" expanded="false" />
-            <element signature="e#821#822#0" expanded="false" />
-            <element signature="e#871#872#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#979#980#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1130#1131#0" expanded="false" />
-            <element signature="e#1179#1180#0" expanded="false" />
-            <element signature="e#1223#1224#0" expanded="false" />
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1296#1297#0" expanded="false" />
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week4/VigenereBreaker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="422">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week4/CeasarCipher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#readFile#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAll#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countUniqueIPs#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAllHigherThanNum#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countVisitsPerIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#mostNumberVisitsByIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsMostVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsForDays#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#dayWithMostIPVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsWithMostVisitsOnDay#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#main#0;class#LogAnalyzer#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#788#789#0" expanded="false" />
-            <element signature="e#821#822#0" expanded="false" />
-            <element signature="e#871#872#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#979#980#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1130#1131#0" expanded="false" />
-            <element signature="e#1179#1180#0" expanded="false" />
-            <element signature="e#1223#1224#0" expanded="false" />
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1296#1297#0" expanded="false" />
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="83" column="89" selection-start-line="83" selection-start-column="89" selection-end-line="83" selection-end-column="89" />
-          <folding>
-            <element signature="method#readFile#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAll#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countUniqueIPs#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAllHigherThanNum#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countVisitsPerIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#mostNumberVisitsByIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsMostVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsForDays#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#dayWithMostIPVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsWithMostVisitsOnDay#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#main#0;class#LogAnalyzer#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/properties/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        <state relative-caret-position="455">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FXMLExample/fxml_example.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-493">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/Tester.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fxml/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FXMLExample/FXMLExampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FXMLExample/FXMLExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FXMLExample/Login.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Prometheus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fxml/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fxml/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Prometheus2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="9" selection-start-line="43" selection-start-column="8" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/layouts/MenuFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2050">
+          <caret line="89" column="38" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fx/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#702#703#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
+            <element signature="e#760#761#0" expanded="false" />
+            <element signature="e#783#784#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#425#426#0" expanded="false" />
+            <element signature="e#460#461#0" expanded="false" />
+            <element signature="e#508#509#0" expanded="false" />
+            <element signature="e#544#545#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upwork/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#465#466#0" expanded="false" />
+            <element signature="e#501#502#0" expanded="false" />
+            <element signature="e#549#550#0" expanded="false" />
+            <element signature="e#584#585#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upwork/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3975">
+          <caret line="184" column="58" selection-start-line="184" selection-start-column="58" selection-end-line="184" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#373#483#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+            <element signature="e#522#523#0" expanded="false" />
+            <element signature="e#540#541#0" expanded="false" />
+            <element signature="e#860#861#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#1462#1616#0" expanded="false" />
+            <element signature="e#1615#1616#0" expanded="false" />
+            <element signature="e#1647#1804#0" expanded="false" />
+            <element signature="e#1803#1804#0" expanded="false" />
+            <element signature="e#1835#1992#0" expanded="false" />
+            <element signature="e#1991#1992#0" expanded="false" />
+            <element signature="e#3278#4861#0" expanded="false" />
+            <element signature="e#4860#4861#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/AmstrongNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/upwork/MainWindowFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3025">
+          <caret line="162" column="50" selection-start-line="162" selection-start-column="50" selection-end-line="162" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bit/BinaryConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/WebLogParser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="-701">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/FactorialNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/ReverseArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/ReverseWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Euclid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Chapter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4325">
+          <caret line="173" column="28" selection-start-line="173" selection-start-column="28" selection-end-line="173" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="16" column="19" selection-start-line="9" selection-start-column="3" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/EuclidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/FibonacciTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/short-test_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="102" selection-start-line="6" selection-start-column="102" selection-end-line="6" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblog-short_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="83" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblog2-short_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblog3-short_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#753#754#0" expanded="false" />
-            <element signature="e#788#789#0" expanded="false" />
-            <element signature="e#821#822#0" expanded="false" />
-            <element signature="e#871#872#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#979#980#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1063#1064#0" expanded="false" />
-            <element signature="e#1097#1098#0" expanded="false" />
-            <element signature="e#1130#1131#0" expanded="false" />
-            <element signature="e#1179#1180#0" expanded="false" />
-            <element signature="e#1223#1224#0" expanded="false" />
-            <element signature="e#1260#1261#0" expanded="false" />
-            <element signature="e#1296#1297#0" expanded="false" />
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblog1_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="638" column="81" selection-start-line="638" selection-start-column="81" selection-end-line="638" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblog2_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="380" column="105" selection-start-line="380" selection-start-column="105" selection-end-line="380" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/coursera/week3/LogAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="36" />
-          <folding>
-            <element signature="method#readFile#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAll#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countUniqueIPs#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#printAllHigherThanNum#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#countVisitsPerIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#mostNumberVisitsByIP#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsMostVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsForDays#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#dayWithMostIPVisits#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#iPsWithMostVisitsOnDay#0;class#LogAnalyzer#0" expanded="false" />
-            <element signature="method#main#0;class#LogAnalyzer#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/coursera/week3/LogAnalyzerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="129" column="10" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/XformWithPivot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#XformWithPivot#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fxml/sample.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/oracle/simple3dbox/Simple3DBoxApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javatpoint/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1714#1715#0" expanded="true" />
-            <element signature="e#1742#1743#0" expanded="true" />
-          </folding>
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1667,7 +1631,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

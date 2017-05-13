@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.effect.*?>
 <?import java.lang.*?>
 <?import javafx.scene.image.*?>
 <?import javafx.scene.control.*?>
@@ -8,12 +9,15 @@
 <VBox prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
    
-           <Label text="I love bacon" />
-           <Button text="Submit" />
-      <ImageView>
+           <Label prefHeight="21.0" prefWidth="112.0" text="I love bacon" />
+           <Button prefHeight="23.0" prefWidth="196.0" text="Submit" />
+      <ImageView id="smile" fitHeight="180.0" fitWidth="181.0">
          <image>
             <Image url="@../../../../../Робота/js/W3C_3/smile.jpg" />
          </image>
+         <effect>
+            <DropShadow />
+         </effect>
       </ImageView>
    </children>
 
